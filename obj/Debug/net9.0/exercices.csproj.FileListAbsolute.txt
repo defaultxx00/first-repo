@@ -1,0 +1,14 @@
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/bin/Debug/net9.0/exercices
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/bin/Debug/net9.0/exercices.deps.json
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/bin/Debug/net9.0/exercices.runtimeconfig.json
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/bin/Debug/net9.0/exercices.dll
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/bin/Debug/net9.0/exercices.pdb
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/obj/Debug/net9.0/exercices.GeneratedMSBuildEditorConfig.editorconfig
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/obj/Debug/net9.0/exercices.AssemblyInfoInputs.cache
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/obj/Debug/net9.0/exercices.AssemblyInfo.cs
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/obj/Debug/net9.0/exercices.csproj.CoreCompileInputs.cache
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/obj/Debug/net9.0/exercices.dll
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/obj/Debug/net9.0/refint/exercices.dll
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/obj/Debug/net9.0/exercices.pdb
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/obj/Debug/net9.0/exercices.genruntimeconfig.cache
+/home/zero/Área de trabalho/codes/c#-c++/c#_.NET/exercices/obj/Debug/net9.0/ref/exercices.dll
